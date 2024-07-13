@@ -1,0 +1,19 @@
+#resume {
+  width: 70%;
+  border: 1px solid blue;
+}
+
+#full-name {
+  font-family: 'Segoe UI Bold', sans-serif;
+  font-size: 48px;
+}
+
+#role {
+  font-family: 'Segoe UI Regular', sans-serif;
+  font-size: 32px;
+  color: rgb(203, 105, 9);
+}
+
+.bottom-spacing--lg {
+  margin-bottom: 32px;
+}
